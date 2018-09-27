@@ -24,8 +24,8 @@
 
 一个简单的案例如下所示：
 
-（插入图片）
 
+![figure](https://raw.githubusercontent.com/Java-B-2018/project1/master/images/ui.png)
 
 
 ### 二、游戏操作
