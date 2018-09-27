@@ -20,7 +20,7 @@
  
  + 即将下落的方块形态
  
-*需要用到的制表符已经写在[template.txt](#)*
+*需要用到的制表符已经写在[template.txt](https://github.com/Java-B-2018/project1/blob/master/template.txt)*
 
 一个简单的案例如下所示：
 
