@@ -16,11 +16,17 @@
 
 基本游戏界面包含以下内容，在游戏开局或每轮操作后打印输出在控制台，可以根据附加功能或自己的喜好增加拓展内容
 
+需要考虑的方块类型如下：
+![sample](https://github.com/Java-B-2018/project1/blob/master/images/sample.jpg)
+
  + 一个10 * 20容量的方格空间，空间中包含**已经下落**的方块
  
  + 即将下落的方块形态
  
 *需要用到的制表符已经写在[template.txt](https://github.com/Java-B-2018/project1/blob/master/template.txt)*
+
+
+
 
 一个简单的案例如下所示：
 
