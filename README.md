@@ -87,7 +87,7 @@
 
 上方提到的空隙是由连续的空方格构成的，而不是将每个空方格都记作空袭。这里的“孔洞”按如下图计算：（黄色部分都算作孔洞）
 
-
+![blocks](https://raw.githubusercontent.com/Java-B-2018/project1/master/images/blocks.PNG)
 
 
 ### 四、结束判定
